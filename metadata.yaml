@@ -1,0 +1,31 @@
+_repo: The-sons-of-Kai-b-The-story-the-Indian-told_74339
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Beston, Henry
+    aliases:
+    - Beston, Henry B.
+    - Sheahan, Henry Edouard
+    birthdate: 1888
+    deathdate: 1968
+    gutenberg_agent_id: '4320'
+    url: http://www.gutenberg.org/2009/agents/4320
+    wikipedia: https://en.wikipedia.org/wiki/Henry_Beston
+description: ''
+gutenberg_issued: '2024-08-31'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '74339'
+language: en
+pgterms:marc905: 20240506131654beston
+pgterms:marc906: '1926'
+pgterms:marc907: US
+production_note: Steve Mattern and the Online Distributed Proofreading Team at https://www.pgdp.net
+publication_note: '  $aUnited States :$bThe Macmillan Company, $c1926, pubdate 1927.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'The sons of Kai : $b The story the Indian told'
+url: http://www.gutenberg.org/ebooks/74339
